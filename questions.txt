@@ -1,0 +1,22 @@
+sql classic models 
+q1. what the population of the database looks like. 
+     How many rows are in each table in the database?
+q2. Which country has high number of customers?
+q3. Report the number of customers in New Zealand, Norway, and Sweden.
+q4. How many employees are there in the company.
+q5. Count of orders for each product and which product has highest orders Count?
+q6. which orders have a value greater than $5,000
+q7. Count of orders based on their status total.
+q8. Which month has the most total items ordered?
+q9. Over the three years where data was collected, how many orders were there per year?
+q10.what was the total revenue each year.
+q11.Which product line has the highest sales volume?
+q12.Which product line has the highest quantity in stock?
+q13.Count of  products in each product line
+q14.What is the average percentage markup of the MSRP on buyPrice ?
+q15.Report total payments for 'november 28,2004'.
+q16.List products sold by order date.
+q17.list all the payments greater than twice the average amount ?
+q18.List the names of products sold at less than 85% of the MSRP (manufacturer suggested retail price).
+q19.Which employees have the highest total sales volumes?
+q20.List all the products purchased by Herkku Gifts.
